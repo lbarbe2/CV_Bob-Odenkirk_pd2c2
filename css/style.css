@@ -617,16 +617,13 @@ article{
     }
     
     .contactos{
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
         margin-left: 10px;
         margin-right: 10px;
         font-size: 20px;
         color: #f60000;
         text-align: center;
         width: 90%;
+        padding-bottom: 30px;
     }
     
     .contactos a{
