@@ -11,6 +11,10 @@ html{
     font-family: 'KoHo', sans-serif;
 }
 
+main{
+    max-width: 1440px;
+    margin: auto auto;
+}
 
 /* ]]]]]]]--- PANTALLA XXL ---[[[[[[[ */
 @media screen and (min-width:1025px) {
